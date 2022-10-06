@@ -5,10 +5,15 @@
 ### About me :raising_hand:
 
 🎒 I'm a Full-Stack Development.
+
 :notebook: I have Learned Html & css ,JavaScript & TypeScript ,MongoDb , Sql ,Node.js ,Express , React & Redux , Python.
+
 :diamonds: I have highly motivated.
+
 :diamonds: I'm a team player.
+
 :diamonds: I'm very organized.
+
 🔥 Fun fact: I Love Dancing and Training(except of programing :wink:).
 
 
