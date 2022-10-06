@@ -4,7 +4,7 @@
 
 # About me :raising_hand:
 
-🎒 I'm a Full-Stack Development.
+:computer: I'm a Full-Stack Development.
 
 :notebook: I have Learned Html & css ,JavaScript & TypeScript ,MongoDb , Sql ,Node.js ,Express , React & Redux , Python.
 
