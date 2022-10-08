@@ -4,17 +4,13 @@
 
 # About me :raising_hand:
 
-:computer: I'm a Full-Stack Development.
+:computer: I'm a Full-Stack Developer.
 
 :notebook: I have Learned Html & css ,JavaScript & TypeScript ,MongoDb , Sql ,Node.js ,Express , React & Redux , Python.
 
-:diamonds: I have highly motivated.
+:diamonds: I’m a team player, highly motivated and organized person, eager to learn and develop new things.
 
-:diamonds: I'm a team player.
-
-:diamonds: I'm very organized.
-
-🔥 Fun fact: I Love Dancing and Training(except of programing :wink:).
+🔥 Fun fact: I Love Dancing and Gym Training(except of programing :wink:).
 
 
 ## Technical skiils
@@ -36,11 +32,11 @@
 
 ### S-wear-store
 
-A clothing store for women, men, kids and plus size 👚. This project is my last project that I wrote. In this project I implemented a lot of things that I learned in the course. In this project I used 'React' and 'Redux' to the client side and 'TypeScript' to the server side and SQL for the Data-base.
+A clothing store for women, men, kids and plus size 👚. This project is the last project that I wrote. In this project I implemented a lot of things that I learned in the course and used 'React' and 'Redux' to the client side, 'TypeScript' to the server side and SQL for the Data-base.
 
 ### Pokedex
 
-This project I wrote with a team member during the course. This was a learning project that we learned a lot from this project. We learned both kinds of Data-base , Sql and MongoDB , we learned also how to write the server side and the most important we learned how to work with someone else.
+I wrote this project with a team member during the course. We learned two kinds of Data-bases, SQL and MongoDB, we also learned how to write the server side and the most importantly, how to cooperate with someone else.
 
 ### Checkers-game
 
@@ -48,7 +44,7 @@ This project is my 'Course Admission Project'. I wrote this project for 3 days a
 
 ### Chess-game
 
-This is my first project that I wrote. During the course we wrote some project, this one is the first one that I wrote and during this project I started to learned how to proggram and how much I like to do it.
+During the course we wrote some projects, this one is the first one that I wrote and during this project I started to learn how to program and how much I enjoy it.
 
 
 <!--
