@@ -32,6 +32,25 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## Projects :mortar_board: 
+
+### S-wear-store
+
+A clothing store for women, men, kids and plus size 👚. This project is my last project that I wrote. In this project I implemented a lot of things that I learned in the course. In this project I used 'React' and 'Redux' to the client side and 'TypeScript' to the server side and SQL for the Data-base.
+
+### Pokedex
+
+This project I wrote with a team member during the course. This was a learning project that we learned a lot from this project. We learned both kinds of Data-base , Sql and MongoDB , we learned also how to write the server side and the most important we learned how to work with someone else.
+
+### Checkers-game
+
+This project is my 'Course Admission Project'. I wrote this project for 3 days after a month of learning.
+
+### Chess-game
+
+This is my first project that I wrote. During the course we wrote some project, this one is the first one that I wrote and during this project I started to learned how to proggram and how much I like to do it.
+
+
 <!--
 **shoval-ba/shoval-ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
