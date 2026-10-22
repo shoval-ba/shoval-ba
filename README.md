@@ -2,7 +2,7 @@
 
 **Full Stack Developer · Computer Science student at Ben-Gurion University**
 
-- 💻 2 years of freelance experience building social web apps for early-stage startups, end to end and on my own: real-time chat, live image uploading, user profiles and feeds
+- 💻 2 years of freelance experience building web and mobile apps for early-stage startups, end to end and on my own: real-time chat, live feeds, SMS auth and location-based features
 - 🎓 Third-year B.Sc. Computer Science student at Ben-Gurion University of the Negev
 - 🪖 Former IDF combat soldier (Combat Intelligence Collection Corps), then graduated a 6-month full-stack bootcamp
 - 🌱 Currently learning: Software Engineering with LLMs and NLP
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte / SvelteKit" alt="Svelte" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 </p>
@@ -35,6 +36,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </p>
@@ -48,6 +50,14 @@
 </p>
 
 ## 🚀 Featured projects
+
+### [FriendsLooking](https://github.com/shoval-ba/FriendsLooking)
+A real-time social network for fashion, built solo for an early-stage startup. Users post outfits from the in-app camera, then like, comment, react and rate in real time. Includes follow requests, friend groups, search, and weather-based outfit recommendations.
+**Stack:** SvelteKit, Tailwind CSS, Node.js, Socket.io, MongoDB, JWT, Vonage SMS
+
+### WannaBuy: [mobile client](https://github.com/shoval-ba/wannabut-client) · [API server](https://github.com/shoval-ba/wannabuy-server)
+A location-based iOS/Android app, built solo for an early-stage startup, that matches shoppers in the same mall to split "buy one, get one" deals. It detects nearby malls and stores with Google Places, streams new deals live, and gives matched partners a real-time chat.
+**Stack:** Svelte, Capacitor, Tailwind CSS, Node.js, Express, Socket.io, MongoDB, Google App Engine
 
 ### [S-Wear Store](https://github.com/shoval-ba/S-wear-store)
 A full-stack e-commerce clothing store: product catalog with filtering and sorting, favorites, shopping cart and order history, an admin management page, and user registration and login with bcrypt-hashed passwords.
