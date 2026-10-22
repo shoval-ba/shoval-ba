@@ -51,11 +51,13 @@
 
 ## 🚀 Featured projects
 
-### [FriendsLooking](https://github.com/shoval-ba/FriendsLooking)
+> 🔒 FriendsLooking and WannaBuy were built as client work, so their code is private. I'm happy to walk through them in an interview.
+
+### FriendsLooking 🔒
 A real-time social network for fashion, built solo for an early-stage startup. Users post outfits from the in-app camera, then like, comment, react and rate in real time. Includes follow requests, friend groups, search, and weather-based outfit recommendations.
 **Stack:** SvelteKit, Tailwind CSS, Node.js, Socket.io, MongoDB, JWT, Vonage SMS
 
-### WannaBuy: [mobile client](https://github.com/shoval-ba/wannabut-client) · [API server](https://github.com/shoval-ba/wannabuy-server)
+### WannaBuy 🔒
 A location-based iOS/Android app, built solo for an early-stage startup, that matches shoppers in the same mall to split "buy one, get one" deals. It detects nearby malls and stores with Google Places, streams new deals live, and gives matched partners a real-time chat.
 **Stack:** Svelte, Capacitor, Tailwind CSS, Node.js, Express, Socket.io, MongoDB, Google App Engine
 
